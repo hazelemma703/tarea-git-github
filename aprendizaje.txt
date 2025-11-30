@@ -1,0 +1,3 @@
+- Aprendi que git es una cli
+- Aprendi que git internamente maneja grafos, para la gestion eficiente de commits
+- Aorendi que Github es el lugar donde se getionan  los repositorios remotos
